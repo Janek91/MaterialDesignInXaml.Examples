@@ -1,6 +1,4 @@
-﻿using GalaSoft.MvvmLight;
-using GalaSoft.MvvmLight.Command;
-using System;
+﻿using System;
 using System.Threading.Tasks;
 
 namespace ProgressBar.BackgroundProcessing

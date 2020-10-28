@@ -1,5 +1,4 @@
-﻿using CommonServiceLocator;
-using Prism.Ioc;
+﻿using Prism.Ioc;
 using Prism.Modularity;
 using Prism.Unity;
 using System;

@@ -1,6 +1,4 @@
-﻿using System.CommandLine.Builder;
-using System.CommandLine.Invocation;
-using System.Windows;
+﻿using System.Windows;
 
 namespace System.CommandLine.Example
 {

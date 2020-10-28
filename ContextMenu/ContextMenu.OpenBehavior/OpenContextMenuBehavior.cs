@@ -1,6 +1,4 @@
-﻿using Microsoft.Xaml.Behaviors;
-using System;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
 
 namespace ContextMenu.OpenBehavior

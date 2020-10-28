@@ -1,6 +1,4 @@
-﻿using System;
-using System.Windows.Input;
-using MaterialDesignThemes.Wpf;
+﻿using System.Windows.Input;
 
 namespace DialogHost.ChangingContent.MVVM.ViewModel
 {

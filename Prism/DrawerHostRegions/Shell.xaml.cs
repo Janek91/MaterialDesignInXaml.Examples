@@ -1,5 +1,4 @@
-﻿using Prism.Ioc;
-using Prism.Regions;
+﻿using Prism.Regions;
 using System.Windows;
 
 namespace DrawerHostRegions

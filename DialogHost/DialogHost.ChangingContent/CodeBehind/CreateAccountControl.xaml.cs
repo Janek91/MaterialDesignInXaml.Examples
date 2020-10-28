@@ -1,5 +1,4 @@
-﻿using MaterialDesignThemes.Wpf;
-using System;
+﻿using System;
 using System.Windows.Controls;
 
 namespace DialogHost.ChangingContent.CodeBehind

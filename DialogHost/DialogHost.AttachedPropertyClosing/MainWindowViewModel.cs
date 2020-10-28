@@ -1,7 +1,4 @@
-﻿using System;
-using MaterialDesignThemes.Wpf;
-
-namespace DialogHost.AttachedPropertyClosing
+﻿namespace DialogHost.AttachedPropertyClosing
 {
     public class MainWindowViewModel
     {
